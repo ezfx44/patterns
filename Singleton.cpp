@@ -1,4 +1,3 @@
-// Singleton.h
 class Singleton
 {
 private:
